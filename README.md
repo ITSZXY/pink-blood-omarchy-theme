@@ -3,7 +3,7 @@
 #### Install with Bash:
 
 ```bash
-omarchy-theme-install omarchy-theme-install https://github.com/ITSZXY/pink-blood-omarchy-theme.git
+omarchy-theme-install https://github.com/ITSZXY/pink-blood-omarchy-theme.git
 ```
 
 
